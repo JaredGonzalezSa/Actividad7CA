@@ -57,14 +57,6 @@ Los estudiantes universitarios tienen dificultades para hacer un seguimiento cen
 4. Marca la casilla de completado conforme avanza, actualizando su progreso general.
 
 ---
-### 4. Presentación Final y Conclusiones
-
-* *Organización del equipo:* Utilizamos GitHub como repositorio central. Nos dividimos los roles desde el inicio (Moderador, Timekeeper, Notetaker) y utilizamos Issues para fragmentar el trabajo de manera equitativa.
-* *Gestión de la comunicación:* Nos comunicamos de forma asíncrona y síncrona mediante un chat, manteniendo en todo momento una netiqueta profesional, clara y orientada a objetivos.
-* *Dificultades enfrentadas:* La principal dificultad fue la pérdida repentina de conexión de uno de los integrantes (Michael) a mitad de la sesión, lo que amenazó con retrasar la consolidación del documento.
-* *Estrategias de resolución:* Ejecutamos un plan de contingencia (fallback) inmediato. El Moderador absorbió las funciones del Notetaker temporalmente mientras la conexión se restablecía, demostrando adaptabilidad y garantizando que se cumpliera con el tiempo estipulado de la actividad.
-
----
 ### Desarrollo del Mini-Proyecto
 
 #### 1. Definición del problema a resolver
