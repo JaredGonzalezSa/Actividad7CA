@@ -2,9 +2,37 @@
 ## Mini-Proyecto 1: Sistema de Gestión de Tareas Académicas
 
 
-* **Jared González**: Moderador (Encargado del repositorio, creación de issues y guía de la comunicación).
-* **...**: Timekeeper (Encargada de vigilar los 35 minutos de la actividad y controlar los tiempos por tarea).
-* **...**: Notetaker (Encargado de documentar acuerdos en el documento compartido y registrar las conclusiones).
+- **Jared González**: Moderador (Encargado del repositorio, creación de issues y guía de la comunicación).
+- **...**: Timekeeper (Encargada de vigilar los 35 minutos de la actividad y controlar los tiempos por tarea).
+- **Michael Xón**: Notetaker (Encargado de documentar acuerdos en el documento compartido y registrar las conclusiones).
+
+---
+### 1. Registro de Comunicación (Chat Simulado)
+**Plataforma utilizada:** WhatsApp / Discord
+
+**Hora de inicio:** 15:00 hrs
+
+ - **Jared (15:00):** Hola equipo, buenas tardes. Doy inicio a la sesión de trabajo. Acabo de crear el repositorio en GitHub y el documento MD. ¿Listos para repartir los roles?
+- **Lud (15:02):** ¡Hola! Buenas tardes. Todo listo. Yo puedo tomar el rol de **Timekeeper** para asegurarme de que terminemos todo en los 35 minutos asignados.
+- **Michael** (15:03):* Perfecto, saludos a ambos. Yo asumo el rol de **Notetaker**. Estaré documentando nuestros acuerdos y pasaré en limpio las conclusiones al final.
+- **Jared (15:05):** Excelente, entonces yo seré el **Moderador**. Me encargaré de crear los **issues** en GitHub y guiar la discusión. El proyecto es el Sistema de Gestión de Tareas Académicas. Empecemos definiendo el problema.
+- ***Lud (15:08):*** Creo que el problema principal es que los estudiantes olvidan las fechas de entrega porque manejan muchas plataformas distintas.
+- **Michael (15:10):** De acuerdo. Lo anoto. Pasemos a las funcionalidades. Necesitamos al menos cuatro.
+- **Jared (15:15):** Propongo: 1. Registro de tareas, 2. Asignación de prioridades, 3. Dashboard de progreso. Nos falta una.
+- **Lud (15:16):** Chicos, Michael me acaba de escribir por SMS. Se le fue el internet en su casa (Pérdida de conexión).
+- **Jared (15:17):** Enterado. **Aplicando procedimiento de fallback:** Yo asumo temporalmente el rol de Notetaker en el documento compartido para no perder tiempo. Lud, ¿puedes pensar en la cuarta funcionalidad y los roles de usuario mientras tanto?
+- **Lud (15:20):** Claro. La cuarta funcionalidad pueden ser notificaciones de fechas próximas. Los usuarios serían "Estudiante" y "Administrador".
+- **Michael (15:25):** ¡Ya regresé! Disculpen, un bajón de luz. Retomo mi rol de Notetaker y unifico lo que avanzaron en el documento final.
+- **Lud (15:28):** Nos quedan 7 minutos de la actividad. Pasemos a las conclusiones finales.
+- **Jared (15:32):** Excelente trabajo equipo. Cerramos la sesión y hacemos los commits finales.
+
+---
+### 2. Lista de Tareas Completadas (Registro de Issues)
+- [x] **Issue #1:** Definir el problema a resolver (Asignado a: Todos).
+- [x] **Issue #2:** Establecer funcionalidades principales (Asignado a: Lud).
+- [x] **Issue #3:** Definir roles del sistema (Asignado a: Lud / Jared).
+- [x] **Issue #4:** Describir el flujo de uso (Asignado a: Todos).
+- [x] **Issue #5:** Consolidar documento final y conclusiones (Asignado a: Michael).
 
 ---
 
