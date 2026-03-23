@@ -3,7 +3,7 @@
 
 
 - **Jared González**: Moderador (Encargado del repositorio, creación de issues y guía de la comunicación).
-- **...**: Timekeeper (Encargada de vigilar los 35 minutos de la actividad y controlar los tiempos por tarea).
+- **Ludwin Salvatierra**: Timekeeper (Encargada de vigilar los 35 minutos de la actividad y controlar los tiempos por tarea).
 - **Michael Xón**: Notetaker (Encargado de documentar acuerdos en el documento compartido y registrar las conclusiones).
 
 ---
@@ -35,7 +35,36 @@
 - [x] **Issue #5:** Consolidar documento final y conclusiones (Asignado a: Michael).
 
 ---
+### 3. Documento Final Consolidado
 
+#### 3.1. Definición del problema
+Los estudiantes universitarios tienen dificultades para hacer un seguimiento centralizado de sus asignaciones y fechas de entrega, lo que genera desorganización, estrés y entregas tardías.
+
+#### 3.2. Funcionalidades principales
+1. *Registro de actividades:* Capacidad de crear tareas con título, descripción y fecha de vencimiento.
+2. *Asignación de prioridades:* Sistema para etiquetar tareas como Alta, Media o Baja prioridad.
+3. *Visualización de progreso:* Panel principal (dashboard) que muestra el porcentaje de tareas completadas.
+4. *Notificaciones de alerta:* Recordatorios visuales para las tareas con fechas de entrega próximas.
+
+#### 3.3. Roles del sistema (Usuarios)
+* *Estudiante:* Puede crear, editar, eliminar, priorizar y marcar como completadas sus tareas.
+* *Administrador:* Da soporte técnico a la plataforma (sin acceso a datos privados de los estudiantes).
+
+#### 3.4. Flujo de uso
+1. El estudiante ingresa a la plataforma.
+2. Visualiza sus tareas pendientes ordenadas por prioridad en el panel principal.
+3. Registra nuevas actividades en "Agregar Tarea".
+4. Marca la casilla de completado conforme avanza, actualizando su progreso general.
+
+---
+### 4. Presentación Final y Conclusiones
+
+* *Organización del equipo:* Utilizamos GitHub como repositorio central. Nos dividimos los roles desde el inicio (Moderador, Timekeeper, Notetaker) y utilizamos Issues para fragmentar el trabajo de manera equitativa.
+* *Gestión de la comunicación:* Nos comunicamos de forma asíncrona y síncrona mediante un chat, manteniendo en todo momento una netiqueta profesional, clara y orientada a objetivos.
+* *Dificultades enfrentadas:* La principal dificultad fue la pérdida repentina de conexión de uno de los integrantes (Michael) a mitad de la sesión, lo que amenazó con retrasar la consolidación del documento.
+* *Estrategias de resolución:* Ejecutamos un plan de contingencia (fallback) inmediato. El Moderador absorbió las funciones del Notetaker temporalmente mientras la conexión se restablecía, demostrando adaptabilidad y garantizando que se cumpliera con el tiempo estipulado de la actividad.
+
+---
 ### Desarrollo del Mini-Proyecto
 
 #### 1. Definición del problema a resolver
